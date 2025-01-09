@@ -1,0 +1,1 @@
+longest_zigzag_path(root_zigzag)
